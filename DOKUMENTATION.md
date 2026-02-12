@@ -315,10 +315,10 @@ Die Funktionsprüfung erfolgte manuell über:
 # 10. Anhang
 
 ## 10.1 Screenshots  
-
+-
 
 ## 10.2 Git‑Repository  
-
+https://github.com/nataliawinter93-bit/admin-dashboard
 
 ---
 
