@@ -151,8 +151,7 @@ Zuweisung über Pivot-Tabellen.
 
 ## 📝 License
 
-MIT License  
-Dieses Projekt darf frei verwendet, kopiert und erweitert werden.
+-
 
 ---
 
